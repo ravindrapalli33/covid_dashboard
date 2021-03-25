@@ -1,0 +1,8 @@
+{
+  "name": "covid_dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bfb1ac82"
+}
